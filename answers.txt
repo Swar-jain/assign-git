@@ -17,6 +17,7 @@ https://sandofsky.com/images/fast_forward.pdf
 
 3. Why should you have different branches?
 While developing a project, a branch to the master branch of a git repository may be created. This may be done to accommodate features or any other necessity that might require branching. Branches help separate one context of the item being developed from another. 
+Reference : 
 https://www.git-tower.com Ý blog Ý understanding-branches-in-git
 
 4. In a project how many remote Git repositories do you usually have? 
