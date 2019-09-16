@@ -22,4 +22,3 @@ https://www.git-tower.com Ý blog Ý understanding-branches-in-git
 
 4. In a project how many remote Git repositories do you usually have? 
 Multiple git repositories can be created for a project. The number of repositories created may depend on the requirements of the project. 
-
